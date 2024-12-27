@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHR2ejVyZmtyeHJsM3M3Mm5xc2N3N2NydzZ0YmhtZHJ5OXNkanphZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Mb9dQnfZXSBYMhU2Nv/giphy.gif)" width="100"/>
+</div>
+
 
 <!--
 **iraphaelfernandes/iraphaelfernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
