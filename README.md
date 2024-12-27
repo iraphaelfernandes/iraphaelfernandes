@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Raphael Fernandes</h1>
-<h3 align="center">Master in AI from Jean Monnet University and MINES Institute (https://ci.mines-stetienne.fr/cps2/)</h3>
+
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHR2ejVyZmtyeHJsM3M3Mm5xc2N3N2NydzZ0YmhtZHJ5OXNkanphZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Mb9dQnfZXSBYMhU2Nv/giphy.gif" width="600" height="300"/>
+</div>
+
+<h3 align="center">I am a master's student in AI at Jean Monnet University and MINES Institute (https://ci.mines-stetienne.fr/cps2/)</h3>
 
 - 📫 How to reach me **raphael.fernandes.eng@gmail.com**
 
