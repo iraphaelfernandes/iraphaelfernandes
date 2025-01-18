@@ -6,7 +6,7 @@
 
 <h3 align="center">I am a master's student in AI at Jean Monnet University and MINES Institute (https://ci.mines-stetienne.fr/cps2/)</h3>
 
-- 📫 How to reach me **raphael.fernandes.eng@gmail.com**
+- 📫 How to reach me: **raphael.fernandes.eng@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
