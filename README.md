@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raphael Fernandes</h1>
+<h1 align="center">Hi, I'm Raphael Fernandes</h1>
 
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHR2ejVyZmtyeHJsM3M3Mm5xc2N3N2NydzZ0YmhtZHJ5OXNkanphZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Mb9dQnfZXSBYMhU2Nv/giphy.gif" width="600" height="300"/>
